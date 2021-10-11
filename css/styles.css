@@ -2915,7 +2915,7 @@ img.u-pull-left {
 .bricks {
     --brick-padding : 4rem;
     padding-top     : var(--vspace-0_125);
-    padding-bottom  : var(--vspace-3);
+    padding-bottom  : var(--vspace-0_125);
 }
 
 .bricks--half-top-padding {
