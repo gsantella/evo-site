@@ -2914,7 +2914,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .bricks {
     --brick-padding : 4rem;
-    padding-top     : var(--vspace-5);
+    padding-top     : var(--vspace-0_125);
     padding-bottom  : var(--vspace-3);
 }
 
@@ -4502,8 +4502,8 @@ body.search-is-visible .s-header__search-inner {
 .s-footer {
     background-color : var(--color-gray-4);
     font-weight      : 300;
-    padding-top      : var(--vspace-4_5);
-    padding-bottom   : var(--vspace-3_5);
+    padding-top      : var(--vspace-0_125);
+    padding-bottom   : var(--vspace-0_125);
     position         : relative;
 }
 
@@ -4725,7 +4725,7 @@ body.search-is-visible .s-header__search-inner {
 
 @media screen and (max-width: 1200px) {
     .s-footer {
-        padding-bottom : var(--vspace-2);
+        padding-bottom : var(--vspace-0_125);
     }
 
     .s-footer>.row {
@@ -4775,7 +4775,7 @@ body.search-is-visible .s-header__search-inner {
 
 @media screen and (max-width: 400px) {
     .s-footer {
-        padding-top : var(--vspace-3_5);
+        padding-top : var(--vspace-0_125);
     }
 
     .s-footer h2 {
@@ -4811,7 +4811,7 @@ body.search-is-visible .s-header__search-inner {
     --width-content-blog      : 1200px;
     --content-primary-padding : 15rem;
     max-width                 : var(--width-content-blog);
-    padding-bottom            : var(--vspace-5);
+    padding-bottom            : var(--vspace-0_125);
 }
 
 .entry-wrap .content-primary,
