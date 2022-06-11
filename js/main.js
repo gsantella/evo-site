@@ -190,7 +190,7 @@
         // animate on load
         else {
             window.addEventListener('load', function(){
-                doAnimate(animateBlocks[0]);
+                //doAnimate(animateBlocks[0]);
             });
         }
 
